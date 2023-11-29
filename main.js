@@ -97,3 +97,5 @@ sr.reveal(`.home-swiper, .new-swiper, .newsletter__container`)
 sr.reveal(`.category__data, .expe__content, .footer__content`,{interval: 100})
 sr.reveal(`.about__data, .discount__img`,{origin: 'left'})
 sr.reveal(`.about__img, .discount__data`,{origin: 'right'})
+
+console.log("OK")
